@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/planetoftheweb/rouxstart/issues"
   },
-  "homepage": "https://github.com/planetoftheweb/rouxstart"
+  "homepage": "https://github.com/planetoftheweb/rouxstart",
+  "dependencies": {
+    "express": "^4.2.0"
+  }
 }
